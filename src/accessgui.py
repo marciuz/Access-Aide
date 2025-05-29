@@ -99,7 +99,7 @@ class AltTextEditor(QtWidgets.QDialog):
         )
         self.btnOk = self.buttonBox.button(QtWidgets.QDialogButtonBox.Ok)
         self.btnCancel = self.buttonBox.button(QtWidgets.QDialogButtonBox.Cancel)
-        self.btnAIfill = QtWidgets.QPushButton('Autofill with IA')
+        self.btnAIfill = QtWidgets.QPushButton('Autofill with AI')
         self.buttonBox.addButton(self.btnAIfill, QtWidgets.QDialogButtonBox.ActionRole)
 
         self.btnOk.clicked.connect(self.AcceptChanges)

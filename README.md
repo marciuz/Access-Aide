@@ -14,6 +14,14 @@ Then open Sigil from the same shell
     open -a Sigil
 
 
+### Todo
+
+- Create an internal configuration (in the Preferences?) with the API KEY of OpenAI
+- Use the language of the ebook to write the prompt (it is now in Italian). Set parameters for at least the 5-6 most commonly used languages?
+- Set the maximum number of characters for ALT attributes
+- (Eventually) allows different OpenAI models and different services as alternative to OpenAI (Claude, AWS Rekognition, Etc)
+
+
 **[Plugin] Access-Aide - help improve epub accessibility**
 
 Updated: October 15, 2024
