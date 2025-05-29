@@ -1,3 +1,19 @@
+## About this fork - Implementation of autofill with OpenAI
+
+This fork implements a simple button Autofill with IA.
+With this feature, you can autofill missing ALT fields by calling OpenAI.
+
+**How to use it**
+To use this feature, you need to set the OPENAI_API_KEY key as follows
+From the terminal
+
+    export OPENAI_API_KEY="<your-api-key>"
+
+Then open Sigil from the same shell
+
+    open -a Sigil
+
+
 **[Plugin] Access-Aide - help improve epub accessibility**
 
 Updated: October 15, 2024

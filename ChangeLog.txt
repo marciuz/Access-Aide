@@ -1,3 +1,6 @@
+v102 (fork)
+  - implementation of OpenAI API calls with "Autofill with AI" button
+
 v101
   - parse svg xml to extract top level desc tag contents to handle svg alt strings
   

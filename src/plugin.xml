@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin>
-<name>Access-Aide</name>
+<name>Access-Aide-Ai</name>
 <type>edit</type>
-<author>KevinH</author>
-<description>Improve Accessibility of ePub3 epubs</description>
+<author>KevinH - Marciuz</author>
+<description>Improve Accessibility of ePub3 epubs with AI implementation</description>
 <engine>python3.4</engine>
-<version>1.0.1</version>
+<version>1.0.2</version>
 <autostart>true</autostart>
 <autoclose>false</autoclose>
 <oslist>osx,win,unx</oslist>
