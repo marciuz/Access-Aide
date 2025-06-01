@@ -254,7 +254,7 @@ class AltTextEditor(QtWidgets.QDialog):
                         },
                         {
                         "type": "input_text",
-                        "text": "descrivi l'immagine e genera un ALT html"
+                        "text": "descrivi l'immagine per compilare l'attributo ALT html"
                         }
                     ]
                 }
